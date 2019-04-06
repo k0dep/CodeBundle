@@ -63,7 +63,7 @@ namespace CodeBundle
                 return;
             }
             
-            Debug.Log("Loading dll from resource finish succes");
+            Debug.Log("Loading dll from resource finish success");
             
             OnSuccess.Invoke();
 
@@ -94,7 +94,7 @@ namespace CodeBundle
                 return;
             }
             
-            Debug.Log("Loading dll from asset bunle finish succes");
+            Debug.Log("Loading dll from asset bundle finish success");
             
             OnSuccess.Invoke();
         }

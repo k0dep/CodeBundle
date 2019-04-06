@@ -2,7 +2,7 @@
 Package for unity3d which allow load code and auto update application/game without reinstall.  
 
 ## Using
-For start using this package add lines into `./Packages/manifest.json` like next sample:  
+To start using this package add lines into `./Packages/manifest.json` like next sample:  
 ```json
 {
   "dependencies": {
